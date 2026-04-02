@@ -1,0 +1,20 @@
+export const PARAGUAY_DEPARTMENTS: Record<string, string[]> = {
+  "Asunción": ["Asunción"],
+  "Concepción": ["Concepción", "Belén", "Horqueta", "Loreto", "San Lázaro"],
+  "San Pedro": ["San Pedro de Ycuamandiyú", "San Estanislao", "Choré", "Santa Rosa del Aguaray"],
+  "Cordillera": ["Caacupé", "Altos", "Arroyos y Esteros", "Atyrá", "Eusebio Ayala", "Piribebuy", "San Bernardino"],
+  "Guairá": ["Villarrica", "Independencia", "Mbocayaty", "Paso Yobái"],
+  "Caaguazú": ["Coronel Oviedo", "Caaguazú", "J. Eulogio Estigarribia", "Repatriación", "San José de los Arroyos"],
+  "Caazapá": ["Caazapá", "Abaí", "Buena Vista", "San Juan Nepomuceno", "Yuty"],
+  "Itapúa": ["Encarnación", "Cambyretá", "Capitán Miranda", "Carmen del Paraná", "Coronel Bogado", "Hohenau", "Obligado", "Bella Vista"],
+  "Misiones": ["San Juan Bautista", "Ayolas", "San Ignacio", "Santa Rosa"],
+  "Paraguarí": ["Paraguarí", "Carapeguá", "Quiindy", "Yaguarón", "Ybycuí"],
+  "Alto Paraná": ["Ciudad del Este", "Hernandarias", "Minga Guazú", "Presidente Franco", "Santa Rita", "San Alberto"],
+  "Central": ["Areguá", "Capiatá", "Fernando de la Mora", "Guarambaré", "Itá", "Itauguá", "J. Augusto Saldívar", "Lambaré", "Limpio", "Luque", "Mariano Roque Alonso", "Ñemby", "San Antonio", "San Lorenzo", "Villa Elisa", "Villeta", "Ypacaraí", "Ypané"],
+  "Ñeembucú": ["Pilar", "Alberdi", "Cerrito", "Paso de Patria"],
+  "Amambay": ["Pedro Juan Caballero", "Bella Vista Norte", "Capitán Bado"],
+  "Canindeyú": ["Salto del Guairá", "Curuguaty", "Katueté", "La Paloma", "Nueva Esperanza"],
+  "Presidente Hayes": ["Villa Hayes", "Benjamín Aceval", "José Falcón", "Nanawa", "Puerto Pinasco"],
+  "Boquerón": ["Filadelfia", "Loma Plata", "Mariscal Estigarribia"],
+  "Alto Paraguay": ["Fuerte Olimpo", "Bahía Negra", "Carmelo Peralta", "Puerto Casado"]
+};
